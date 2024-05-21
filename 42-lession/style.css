@@ -1,0 +1,15 @@
+
+.h1-style{
+    color: red;
+    font-size: 2rem;
+    background-color: blue;
+    text-align: center;
+    padding: 8px;
+}
+.h1-style-change{
+    color: blue;
+    font-size: 2rem;
+    background-color: red;
+    text-align: center;
+    padding: 8px;
+}

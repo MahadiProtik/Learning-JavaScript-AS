@@ -1,0 +1,46 @@
+{
+    "persons" : [
+        {
+            "name"          : "Rahim Khan",
+            "middle-name"   : null,
+            "age"           : 33,
+            "registration"  : true,
+            "skills"        : ["JavaScript", "PHP", "Tailwind", "VueJS"],
+            "address"       : {
+                "division" : "Dhaka",
+                "district" : "Dhaka"
+            },
+            "friends"       :[
+                {
+                    "name" : "Shafiq Khan",
+                    "age"  : 33
+                },
+                {
+                    "name" : "Rafiq Khan",
+                    "age"  : 32
+                }
+            ]
+        },
+        {
+            "name"          : "Karim Khan",
+            "middle-name"   : null,
+            "age"           : 28,
+            "registration"  : false,
+            "skills"        : ["JavaScript", "Python", "Tailwind", "DJango"],
+            "address"       : {
+                "division" : "Chittagong",
+                "district" : "Feni"
+            },
+            "friends"       :[
+                {
+                    "name" : "Tuhin Khan",
+                    "age"  : 28
+                },
+                {
+                    "name" : "Jayed Khan",
+                    "age"  : 29
+                }
+            ]
+        }
+    ]
+}
